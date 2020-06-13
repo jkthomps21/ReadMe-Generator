@@ -19,6 +19,13 @@ This is a CLI readme generator that prompts a user for information and creates a
 
 </details>
 
+## User Story
+```
+AS A developer
+I WANT a simple README generator
+SO THAT I can easily create a README for any new projects
+```
+
 ## Installation
 Once you have cloned the repository, navigate to the folder using terminal and run `npm install`.
 
@@ -34,3 +41,6 @@ Please note that this project is released with a Contributor Code of Conduct. By
 ## User Info
 This project was created by jkthomps21.
 Please contact them here to report any issues: <a href="mailto:jkthomps21@gmail.com">Report Issues</a>
+
+## Screenshot(s)
+![image of CLI](https://user-images.githubusercontent.com/49950576/84572689-623fc200-ad61-11ea-99ed-94afd21a0d7c.png)
