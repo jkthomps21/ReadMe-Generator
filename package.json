@@ -1,0 +1,24 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Uses CLI prompts to generate a readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jkthomps21",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkthomps21/ReadMe-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkthomps21/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/jkthomps21/ReadMe-Generator#readme"
+}
