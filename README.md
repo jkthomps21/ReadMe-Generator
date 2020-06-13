@@ -43,4 +43,4 @@ This project was created by jkthomps21.
 Please contact them here to report any issues: <a href="mailto:jkthomps21@gmail.com">Report Issues</a>
 
 ## Screenshot(s)
-![image of CLI](https://user-images.githubusercontent.com/49950576/84572689-623fc200-ad61-11ea-99ed-94afd21a0d7c.png)
+![image of CLI in use](https://user-images.githubusercontent.com/49950576/84572749-cd899400-ad61-11ea-9c9a-be3775e32c24.png)
